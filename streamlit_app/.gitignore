@@ -1,0 +1,14 @@
+venv/
+# /.env
+# main_mine.py
+# draft.py
+# draw_1.py
+# draw_2.py
+# draw_2_combine.py
+# draw_area_chart.py
+# draw_line_chart.py
+# draw_radar_chart.py
+*.pyc
+__pycache__/
+.env
+
